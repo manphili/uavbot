@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Configration>
+<UAV>
+      <HomeLattitude>17.417631</HomeLattitude>
+      <HomeLongitude>78.504330</HomeLongitude>
+      <FlyingAltitude>120</FlyingAltitude>
+      <email>mp3minu@gmail.com</email>
+      <range>30</range>
+ 
+</UAV>
+</Configration>
